@@ -7,14 +7,17 @@ This codebase was created to demonstrate a fully fledged fullstack application b
 
 
 # Screenshots
+
 **create user**
 
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/1.png" width="800" height="400"/>
 
 **JWT login**
+
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/7.png" width="800" height="400"/>
 
 **add article to favorite**
+
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/8.png" width="800" height="400"/>
 
 **create article**
