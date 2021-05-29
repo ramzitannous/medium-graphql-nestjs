@@ -49,6 +49,7 @@ A medium like backend server using nestjs with Graphql and mongodb as presitance
 [Dataloader](https://github.com/graphql/dataloader) is used to solve the popular **N+1** problem, by batching requests and making one rquest to the database to fetch multiple objects, instead of **N** queries, this will optimize the graphql queries significantly, more about the problem can be found [here](https://medium.com/the-marcy-lab-school/what-is-the-n-1-problem-in-graphql-dd4921cb3c1a)
 
 **Graphql Subscription**
+
 subscription is done using `graphql-subscriptions`, 2 events can be subscribed:
 
 **1. when article created**
