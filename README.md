@@ -9,10 +9,13 @@ This codebase was created to demonstrate a fully fledged fullstack application b
 # Screenshots
 **create user**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/1.png" width="800" height="400"/>
+
 **create article**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/2.png" width="800" height="400"/>
+
 **get all articles and comments with pagination**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/3.png" width="800" height="400"/>
+
 **add comment to article**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/4.png" width="800" height="400"/>
 
@@ -36,12 +39,12 @@ A medium like backend server using nestjs with Graphql and mongodb as presitance
 [Dataloader](https://github.com/graphql/dataloader) is used to solve the popular **N+1** problem, by batching requests and making one rquest to the database to fetch multiple objects, instead of **N** queries, this will optimize the graphql queries significantly, more about the problem can be found [here](https://medium.com/the-marcy-lab-school/what-is-the-n-1-problem-in-graphql-dd4921cb3c1a)
 
 **Graphql Subscription**
-
 subscription is done using `graphql-subscriptions`, 2 events can be subscribed:
-1. when article created
+
+**1. when article created**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/5.png" width="800" height="400"/>
 
-2. when a new comment added
+**2. when a new comment added**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/6.png" width="800" height="400"/>
 
 # Getting started
