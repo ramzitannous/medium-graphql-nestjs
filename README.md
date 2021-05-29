@@ -1,5 +1,5 @@
 # [Nestjs + Mongodb + Graphql]
-![enter image description here](https://res.cloudinary.com/practicaldev/image/fetch/s--AEXRsCQG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5ysrutus0pu7ux580d5s.png =100x200)
+![enter image description here](https://res.cloudinary.com/practicaldev/image/fetch/s--AEXRsCQG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5ysrutus0pu7ux580d5s.png)
 
 > ### [Nestjs + Graphql] codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
@@ -11,7 +11,7 @@ This codebase was created to demonstrate a fully fledged fullstack application b
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/1.png" width="800" height="400"/>
 **create article**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/2.png" width="800" height="400"/>
-**get all articles with pagination**
+**get all articles and comments with pagination**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/3.png" width="800" height="400"/>
 **add comment to article**
 <img src="https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/images/4.png" width="800" height="400"/>
