@@ -118,16 +118,19 @@ input CreateUserInput {
   username: String!
   email: String!
   bio: String
-  image: String
+  image: Upload
   confirmPassword: String!
   password: String!
 }
+
+"""The `Upload` scalar type represents a file upload."""
+scalar Upload
 
 input UpdateUserInput {
   username: String
   email: String
   bio: String
-  image: String
+  image: Upload
 }
 
 input LoginInputType {

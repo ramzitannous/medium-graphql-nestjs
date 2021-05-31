@@ -1,4 +1,4 @@
-import { CrudService } from "../../common/crud.service";
+import { CrudService } from "../../common/services/crud.service";
 import { Comment, CommentDocument } from "../schemas/comment.schema";
 import { CreateCommentInput } from "../dto/comment/create-comment.input";
 import { User } from "../../users/users.schema";

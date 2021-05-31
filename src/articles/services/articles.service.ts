@@ -1,7 +1,7 @@
 import { Inject, Injectable } from "@nestjs/common";
 import { CreateArticleInput } from "../dto/article/create-article.input";
 import { UpdateArticleInput } from "../dto/article/update-article.input";
-import { CrudService } from "../../common/crud.service";
+import { CrudService } from "../../common/services/crud.service";
 import { Article, ArticleDocument } from "../schemas/article.schema";
 import { User } from "../../users/users.schema";
 import { InjectModel } from "@nestjs/mongoose";
