@@ -78,7 +78,7 @@ subscription is done using `graphql-subscriptions`, 2 events can be subscribed:
     `MONGODB_URI=mongodb://localhost:27017/medium`   
     `DEBUG=true`  
      `SECRET_KEY=secret-key`
-	`UPLOAD_PATH=./static`
+     `UPLOAD_PATH=./static`
 
   2. `yarn install`  
  3. `yarn start`  
