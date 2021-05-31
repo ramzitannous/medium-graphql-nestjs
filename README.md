@@ -59,7 +59,7 @@ graphql file upload was done by `graphql-upload` node package
 
 **Graphql Schema**
 
-full graphql schema can be found at [schema.gql](https://raw.githubusercontent.com/ramzitannous/medium-graphql-nestjs/master/src/schema.gql)
+full graphql schema can be found at [schema.gql](https://github.com/ramzitannous/medium-graphql-nestjs/blob/master/src/schema.gql)
    
 **Graphql Subscription**  
 
